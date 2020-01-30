@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/01/30 17:35:59.447,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:36:45.377,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThreadDemo.fmx=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/01/30 17:36:45.377,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThreadDemo.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:36:51.077,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\WorkerThreadDemo.dproj=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/01/30 17:39:33.237,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:39:48.946,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThreadTypes.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:40:28.221,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:40:42.628,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThreadThread.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 17:40:50.015,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThread.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\WorkerThreadDemo\uWorkerThreadThread.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile Android64="332ae9dc"/>
+  </ActiveMobileDevice>
+</BorlandProject>
